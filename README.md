@@ -1,6 +1,7 @@
 ## Hi, I'm Majd 👋
 
 💻 Fullstack Developer (Next.js, Node.js, Prisma)
+
 📍 Based in Sweden
 
 ---
@@ -21,9 +22,13 @@
 ## 🧠 Tech Stack
 
 **Frontend:** React, Next.js, Tailwind, ShadCN, TanStack
+
 **Backend:** Node.js, Express, Prisma
+
 **Database:** PostgreSQL
+
 **Tools:** Git, Docker, Coolify, Stripe, VS Code, GitHub Copilot
+
 
 ---
 
